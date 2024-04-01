@@ -27,6 +27,8 @@ public class BackupProcess implements Runnable {
         System.out.println("Running command => \"" + backupDatabaseCmd + "\"");
         CommandUtils.runCommand(backupDatabaseCmd);
         System.out.println("Backup database done => " + backupDirectory.getAbsolutePath() + "/databases.sql");
+        
+        
     }
 
     @Override
