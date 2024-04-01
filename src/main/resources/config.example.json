@@ -1,0 +1,7 @@
+{
+  "host": "host",
+  "port": 0,
+  "user": "user",
+  "password": "password",
+  "remoteDirectory": "/path/to/remote/directory"
+}
