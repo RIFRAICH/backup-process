@@ -8,6 +8,12 @@ This project requires the following to get started:
 
 ## Getting Started
 
+### Clone the repository
+```bash
+git clone https://github.com/RIFRAICH/backup-process.git
+cd backup-process/
+```
+
 ### Setup
 1. Go to `src/main/resources`
 2. Copy `config.example.json` and rename it to `config.json`
